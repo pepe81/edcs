@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBingoLuis", "PBingoLuis\PBingoLuis.csproj", "{D815402E-7FEE-4B28-B21E-4E84AA7BEDCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D815402E-7FEE-4B28-B21E-4E84AA7BEDCC}.Debug|x86.ActiveCfg = Debug|x86
+		{D815402E-7FEE-4B28-B21E-4E84AA7BEDCC}.Debug|x86.Build.0 = Debug|x86
+		{D815402E-7FEE-4B28-B21E-4E84AA7BEDCC}.Release|x86.ActiveCfg = Release|x86
+		{D815402E-7FEE-4B28-B21E-4E84AA7BEDCC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PBingoLuis\PBingoLuis.csproj
+	EndGlobalSection
+EndGlobal
